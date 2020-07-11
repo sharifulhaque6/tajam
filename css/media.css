@@ -1,0 +1,418 @@
+/*extra small device*/
+@media (max-width: 575.98px) {
+    
+    .slick-slide img {
+        height: 420px;
+    }
+    .ml-auto, .mx-auto{
+        background: linear-gradient(#09052f,#311d5e);
+    }
+    .slick-dots li button{
+        margin-left: 0px;
+    }
+    .slider_text {
+        margin-top: 127px;
+    }
+
+    .slider_text h3 {
+        margin-bottom: 75px;
+    }
+
+    .text-center {
+        margin-bottom: 0px;
+    }
+
+    #story {
+        padding: 20px 0;
+    }
+
+    .story_text h3 {
+        margin-top: 20px;
+    }
+
+    #expertis {
+        padding: 35px 0 0px 0;
+    }
+
+    .exp_top p {
+        font-size: 18px;
+    }
+
+    .exp_top h3 {
+        font-size: 25px;
+    }
+
+    .pt-5,
+    .py-5 {
+        padding-top: 0rem !important;
+    }
+
+    .service h5 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .service p {
+        padding: 0px 0px;
+    }
+    .service .fa-desktop{
+        margin-bottom: 15px;
+    }
+    .team_top h4 {
+        font-size: 18px;
+    }
+
+    #team {
+        padding: 50px 0 50px 0;
+    }
+
+    .team_top p {
+        font-size: 12px;
+    }
+    .team_last p{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .middlerow {
+        margin-top: 0px
+    }
+
+    .team_last {
+        margin-top: 0px;
+    }
+
+    #gellary {
+        padding: 25px 0;
+    }
+
+    .gellary_top p {
+        font-size: 12px;
+    }
+
+    .gellary_btn {
+        line-height: 50px;
+        margin-top: 0px;
+    }
+
+    .gellaryImg {
+        margin-top: 25px;
+    }
+
+    .gellary_btn2 {
+        padding-top: 40px;
+    }
+
+    .overly2_text p {
+        font-size: 10px;
+        padding: 0px 0px;
+
+    }
+
+    .slider_item2 {
+        height: 375px;
+    }
+
+    .overly2_text {
+        margin-top: 40px;
+    }
+
+    #slider2 .slick-dots li {
+        margin: 0 5px;
+    }
+
+    #slider2 .slick-dots li button {
+        margin-left: 0px;
+    }
+
+    #contact {
+        padding: 35px 0;
+    }
+
+    #footer {
+        padding: 45px 0 35px 0;
+    }
+
+    .footer_left p {
+        margin-bottom: 25px;
+    }
+
+    .footer_left a {
+        font-size: 12px;
+    }
+
+    .footer_middle h5 {
+        margin-top: 20px;
+    }
+
+    .footer_middle .fa-tree {
+        font-size: 25px;
+        margin-left: 15px;
+    }
+
+    .footer_last {
+        margin-top: 25px;
+    }
+
+    .footer_last h5 {
+        margin-bottom: 20px;
+    }
+
+    .footer_icon {
+        text-align: center;
+    }
+
+    .copyright p {
+        text-align: center;
+        margin-top: 30px;
+    }
+    #video{
+        padding: 100px 0;
+    }
+}
+/*Small Device*/
+@media (min-width: 576px) and (max-width: 767.98px){
+   .slick-slide img {
+    height: 500px;
+}
+    .slider_text{
+        margin-top: 140px;
+    }
+    .slick-dots li button{
+        margin-left: 0px;
+    }
+    .ml-auto, .mx-auto{
+        background: linear-gradient(#09052f,#311d5e);
+    }
+     #story {
+        padding: 20px 0;
+    }
+    .story_text h3{
+        margin-top: 25px;
+    }
+    #video{
+        padding: 100px 0;
+    }
+    #expertis {
+        padding: 35px 0 35px 0;
+    }
+    .pt-5, .py-5 {
+    padding-top: 0rem!important;
+    }
+    .service{
+        margin-top: 25px;
+    }
+    .service .fa-desktop{
+        margin-bottom: 15px;
+    }
+    .service h5{
+        padding-bottom: 0px;
+    }
+    .service p{
+        padding: 0px 0px;
+    }
+    #gellary{
+        padding: 35px 0;
+    }
+    .gellary_btn{
+        margin-top: 0px;
+        line-height: 50px;
+    }
+    .gellaryImg{
+        margin-top: 25px;
+    }
+    .gellary_btn2{
+        padding-top: 30px;
+    }
+    .overly2_text p{
+        padding: 0px 0px;
+    }
+    .slider_item2{
+        height: 450px;
+    }
+    #slider2 .slick-dots li{
+        margin: 0 5px;
+    }
+    #slider2 .slick-dots li button{
+        margin-left: 0px;
+    }
+    .overly2_text{
+        margin-top: 70px;
+    }
+    #contact{
+        padding: 35px 0;
+    }
+    #footer{
+        padding: 45px 0 35px 0;
+    }
+    .footer_left img{
+        margin-bottom: 15px;
+    }
+    .footer_left p{
+        margin-bottom: 25px;
+    }
+    .footer_middle h5{
+        margin-top: 25px;
+    }
+    .footer_middle .fa-tree{
+        float: right;
+    }
+    .footer_last h5{
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    .copyright p{
+        margin-top: 35px;
+    }
+}
+/*mediam device*/
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-dark .navbar-nav .nav-link{
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+     .slick-slide img {
+    height: 535px;
+    }
+    .slider_text{
+        margin-top: 160px;
+    }
+    .slick-dots li button{
+        margin-left: 0px;
+    }
+    .slider_text h3{
+        font-size: 30px;
+    }
+    .slider_text p{
+        padding: 0 0;
+    }
+    #story {
+        padding: 35px 0;
+    }
+    #video{
+        padding: 150px 0;
+    }
+    #expertis {
+        padding: 35px 0 35px 0;
+    }
+    .pt-5, .py-5 {
+    padding-top: 1rem!important;
+    }
+    .service p{
+        padding: 0 0;
+    }
+    #gellary{
+        padding: 35px 0;
+    }
+    .gellary_btn2 {
+    padding-top: 35px;
+    }
+    .overly2_text p {
+    padding: 0 0px;
+    }
+    .slider_item2{
+        height: 400px;
+    }
+     #slider2 .slick-dots li{
+        margin: 0 5px;
+    }
+    #slider2 .slick-dots li button{
+        margin-left: 0px;
+    }
+    .contact_logo img {
+    width: 100px;
+    }
+    .contact_form2 h4{
+        margin-left: 20px;
+    }
+    #contact {
+    padding: 35px 0;
+    }
+    #footer{
+        padding: 45px 0 35px 0;
+    }
+    .footer_left a {
+    font-size: 12px;
+    margin: 0 20px;
+    }
+    .footer_left p{
+        margin-bottom: 25px;
+    }
+    .copyright p{
+        margin-top: 35px;
+    }  
+}
+/*large device*/
+@media(min-width:992px) and (max-width:1199.98px){
+    
+     .slick-slide img {
+    height: 600px;
+    }
+    .slider_text{
+        margin-top: 200px;
+    }
+    .slick-dots li button{
+        margin-left: 0px;
+    }
+    #story {
+        padding: 35px 0;
+    }
+    #video{
+        padding: 150px 0;
+    }
+    #expertis {
+        padding: 35px 0 35px 0;
+    }
+    .pt-5, .py-5 {
+    padding-top: 1rem!important;
+    }
+    .service p{
+        padding: 0 0;
+    }
+    #gellary{
+        padding: 35px 0;
+    }
+    .gellary_btn2 {
+    padding-top: 35px;
+    }
+    .overly2_text p {
+    padding: 0 0px;
+    }
+    .slider_item2{
+        height: 400px;
+    }
+    .contact_logo img {
+    width: 100px;
+    }
+    #contact {
+    padding: 35px 0;
+    }
+     #footer{
+        padding: 45px 0 35px 0;
+    }
+    .footer_left a {
+    margin: 0 9px;
+    }
+    .footer_middle .fa-tree{
+        float: right;
+    }
+    .copyright p{
+        margin-top: 55px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
